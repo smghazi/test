@@ -12,7 +12,7 @@ class MyCLass
     {
 echo "eee22";
         echo "pooj";
-        echo "ssfkkfyuyy";
-        echo "aayyyyyyyyyyyyyyyyyyyyyaa";
+        echo "ssfkkfyuygggggggggy";
+        echo "aaaa";
     }
 }
