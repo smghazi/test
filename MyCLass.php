@@ -10,6 +10,6 @@ class MyCLass
 {
     function Test()
     {
-
+echo "test";
     }
 }
