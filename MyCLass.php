@@ -12,6 +12,6 @@ class MyCLass
     {
 echo "eee22";
         echo "pooj";
-        echo "ss";
+        echo "ssff";
     }
 }
