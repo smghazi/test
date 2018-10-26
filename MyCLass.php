@@ -10,9 +10,6 @@ class MyCLass
 {
     function Test()
     {
-echo "eee22";
-        echo "pooj";
-        echo "ssfkkfyuygggggggggy";
-        echo "aaaa";
+
     }
 }
